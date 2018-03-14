@@ -1,0 +1,237 @@
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Center for Macromolecular Science and Engineering</title>
+<link rel="stylesheet" type="text/css" href="basic.css" />
+</head>
+
+<body background="images/back.gif">
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=2981158; 
+var sc_invisible=0; 
+var sc_partition=32; 
+var sc_security="2888232f"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"><img class="statcounter" src="http://c33.statcounter.com/2981158/0/2888232f/0/" alt="counter create hit" /></a></div></noscript>
+<!-- End of StatCounter Code -->
+<?php
+include 'includes/header.php';
+?><div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="751" id="AutoNumber3" background="images/contentback.gif">
+    <tr>
+      <td width="372" valign="top">
+      <img border="0" src="images/logo2.jpg" width="405" height="17"></td>
+      <td><img border="0" src="images/searchback2.jpg" width="346" height="17"></td>
+    </tr>
+    </table>
+  </center>
+</div>
+<?php
+include 'includes/subnav.php';
+?>     
+<div align="center">
+  <center>
+  <table background="images/contentback2a.gif" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="751" id="AutoNumber6">
+    <tr>
+      <td width="155" valign="top">
+      <?php
+include 'includes/nav.php';
+?>      </td>
+      <td width="596" valign="top">
+      <div align="center">
+        <center>
+        <table border="0" cellpadding="6" cellspacing="6" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber10">
+          <tr>
+            <td width="100%">
+            <h1>Research Areas</h1>
+            <p>The Center represents faculty with varied interests and 
+            specialties.&nbsp; Each member below discusses their research 
+            interests.&nbsp; <p>
+            <b>
+            <img border="0" src="images/r1.jpg" align="right" width="112" height="119">CERAMICS/POLYMERS<br>
+            </b>&quot;Organometallic and metal-organic routes to 
+            ceramics and inorganic/organic hybrid materials, chemistry of 
+            silsesquioxanes and other silicone materials, fibers and 
+            composites.&quot; <br>
+            <b>
+            Ron Baney </b>- <a href="http://baney.mse.ufl.edu">
+            http://baney.mse.ufl.edu</a> <p><b>POLYMERIC BIOMATERIALS, DRUG 
+            DELIVERY</b><br>
+            &quot;Biomaterials, surface properties of polymers, microsphere 
+            synthesis, diagnostic devices, scaffods for regenerative medicine.&quot;<br>
+            <b>Chris Batich</b> - <a href="http://batich.mse.ufl.edu">
+            http://batich.mse.ufl.edu</a>&nbsp; <br>
+            <br>
+            <b><img border="0" src="images/r4.jpg" align="right" width="110" height="72">POLYMERIC 
+            INTERFACES<br>
+            </b>&quot;Polymer/Biomaterials Science &amp; Engineering, Designed Interfaces - 
+            Adhesion/Bioadhesion; Tissue Engineering; Networks/Gels; 
+            Composites.&quot;<br>
+            <b>Tony Brennan</b> - <a href="http://brennan.mse.ufl.edu">
+            http://brennan.mse.ufl.edu</a>&nbsp; <br>
+            <br>
+            <b>ORGANIC AND SUPRAMOLECULAR CHEMISTRY</b><br>
+            &quot;Molecular recognition, self-assembly, organic synthesis, reversible 
+            and bio-inspired materials, non-covalent interactions.&quot;<br>
+            <b>Ron Castellano</b> - <a href="http://www.chem.ufl.edu/~castellano">
+            http://chem.ufl.edu/~castellano</a>&nbsp; <br>
+            <br>
+            <b>MORPHOLOGY, RHEOLOGY, STRUCTURE-PROPERTY RELATIONSHIPS</b><br>
+            &quot;Properties of epoxies for fiber-reinforced composites, 
+            structure-property relationships of liquid crystalline epoxies, supramolecular structure of proteins, active learning techniques, 
+            critical thinking in engineering.&quot; <b>
+            <img border="0" src="images/r3.jpg" width="112" height="94" align="right"></b><br>
+            <b>Elliot Douglas </b>- <a href="http://douglas.mse.ufl.edu/">
+            http://douglas.mse.ufl.edu/</a>  
+                    <br>
+                      <br>
+                      <b>BIOMEDICAL POLYMERS<br>
+                      </b>&quot;Polymer/Biomedical Polymer Science &amp; Engineering, 
+                      Polymer Surface Modification, Medical Implants &amp; Devices, 
+                      Evaluation of Implant Biocompatibility; specific areas of 
+                      application include Ophthalmic Biomaterials &amp; Devices, 
+                      Vascular Stents, Regenerative Medicine for Repair of the 
+                      Central Nervous System (Spinal Cord &amp; Retinal Repair), 
+                      and Localized Cancer Chemotherapy using Nano-Meso-Microspheres.&quot;<br>
+                      <b>Gene Goldberg</b> - <a href="http://mse.ufl.edu/faculty-and-staff/directory/faculty/Goldberg,Eugene"> 
+                      http://mse.ufl.edu/faculty-and-staff/directory/faculty/Goldberg,Eugene</a>&nbsp; <br>
+                      <br>
+                      <b>BIOMIMETIC INORGANIC-ORGANIC COMPOSITES</b><br>
+                      &quot;Polymeric crystal growth modifiers, Biomimetic organic-inorganic 
+                      composites, Hard tissue engineering, Role of biomacromolecules 
+                      in biomineralization, Engineered particulates.&quot;<br>
+                      <b>Laurie Gower</b> - <a href="http://gower.mse.ufl.edu"> 
+                      http://gower.mse.ufl.edu</a>&nbsp;<br>
+                      <br>
+                      <strong>ELECTRONIC STRUCTURE &amp; DYNAMICS OF CRYSTALLINE 
+                      POLYMERS</strong><br>
+                      &quot;First-principles electronic and vibrational structure 
+                      calculations of crystalline polymers, theoretical simulations 
+                      of UV/visible absorption, photoelectron, IR/Raman, and inelastic 
+                      neutron scattering spectra of polymers&quot; <br>
+                     <strong>So Hirata - </strong><a href="http://www.qtp.ufl.edu/~hirata">http://www.qtp.ufl.edu/~hirata</a><br><br>
+<strong>POLYMERIZATION CHEMISTRY</strong><br>
+&quot;Our research group has several projects focused on polymerization chemistry, including:  single-site catalyst design for the preparation of syndiotactic polypropylene and related copolymers; elastomeric polypropylene based on the isotactic-hemiisotactic, syndiotactic-hemiisotactic, or enantiomorphic site control microstructures; oxygen rich polymers from biorenewable feedstocks such as polylactic acid and polyoxymethylene; theoretical models of polymer tacticity; and the application of DFT calculations to polymerization chemistry.&quot;
+<br><strong> Stephen Miller - </strong> <a href="http://web.chem.ufl.edu/groups/miller/">http://web.chem.ufl.edu/groups/miller/</a>
+
+                    <p><b><img border="0" src="images/r6.jpg" align="right" width="112" height="72">POLYMERS 
+            WITH STRONGLY INTERACTIVE GROUPS</b><br>
+            &quot;Long Range Correlations in Polymer Melt, Anti-Casimir effect in 
+            polymer melts, Extracting Structural information from 
+            Force-Extension Curves.&quot;<br>
+            <b>Sergei Obukhov</b> - <a href="http://www.phys.ufl.edu/~sergei/">
+            http://www.phys.ufl.edu/~sergei/</a> <p><b>POLYMER RHEOLOGY AND 
+            PROCESSING</b><br>
+            &quot;Multicomponent flows of polymeric materials are encountered 
+            frequently in various industrial applications. Due to the complexity 
+            of polymer rheology, numerous issues involving such flows remain to 
+            be understood. Our efforts in this area focus on investigating 
+            various multicomponent flows of polymeric fluids through an 
+            interplay between process modeling and experiment. Modeling work is 
+            aimed at establishing theoretical bases of various fluid mechanical 
+            behaviors observed experimentally.&quot;<br>
+            <b>Chang-Won Park</b> -
+            <a href="http://www.che.ufl.edu/faculty/Park/index.html">
+            http://www.che.ufl.edu/faculty/Park/index.html</a> <br>
+            <br>
+            <b>
+            <img border="0" src="images/r2.jpg" width="112" height="100" align="right">ELECTROACTIVE 
+            POLYMERS<br>
+            </b>&quot;Conjugated Polymers for Electrochromic, Light Emitting, and 
+            Photovoltaic Devices. Our group has a coordinated synthesis, 
+            properties control, and device platform effort directed to 
+            developing variable band gap pi conjugated polymers which may find 
+            utility in a variety of optoelectronic devices. Using electron rich 
+            and electron rich heterocycles polymerized via various transition 
+            metal mediated coupling and electrochemical methods, polymers are 
+            designed with controlled HOMO and LUMO energy levels and electronic 
+            band gaps. This provides electronic absorption and emission 
+            properties controllable from the UV, through the visible, the 
+            near-infrared and even longer wavelengths. We seek to optimize the 
+            properties of polymers as they may be applied to color changing electrochromics, visible and near-infrared light emission, and 
+            flexible organic polymer based solar cells.&quot;<br>
+            <b>John Reynolds</b> - <a href="http://www.chem.ufl.edu/~reynolds/">
+            http://chem.ufl.edu/~reynolds/</a>&nbsp; <br>
+            <br>
+            <b>ORGANIC, INORGANIC, POLYMER AND MATERIALS<br>
+            </b>&quot;Research in our lab is focused on the interaction of light with 
+            organic and organometallic materials. We have an interest in a 
+            number of optical applications such as light emitting devices (LEDs), 
+            fluorescent sensors, solar energy conversion and non-linear optical 
+            phenomena. In one specific project we are involved in the chemical 
+            synthesis and fundamental study of water soluble conjugated polymers 
+            (conjugated polyelectrolytes). These materials find application in a 
+            number of areas, including fabrication of fluorescent bio-sensors 
+            and nano-structured films for use in organic photovoltaic cells. In 
+            another line of investigation, we are studying the optical 
+            properties of novel conjugated organometallic oligomers and 
+            polymers. Finally, we have a long standing interest in the 
+            development of thin film based luminescent oxygen sensor materials 
+            which are used by aerodynamic engineers to measure air pressure 
+            distributions on wind-tunnel models.&quot;<br>
+            <b>Kirk Schanze</b> - <a href="http://www.chem.ufl.edu/~kschanze/">
+            http://www.chem.ufl.edu/~kschanze/</a>&nbsp; <br>
+            <br>
+            <b>
+            <img border="0" src="images/r7.jpg" width="112" height="85" align="right">INFRARED 
+            AND OPTICAL MEASUREMENTS<br>
+            </b>&quot;My group studies materials by optical reflectance or transmittance 
+            at wavelengths from the far infrared through the near ultraviolet. 
+            Among the topics studied are high-temperature superconductors, 
+            electroactive (conducting) polymers, low-dimensional organic 
+            crystals, fullerenes, and a number of other systems. We have also 
+            contributed to transport and other studies, and have worked on 
+            techniques and applications. I am also a member of U12IR at the NSLS, 
+            where we use synchrotron <br>
+            radiation to carry out pump-probe measurements in the far infrared, 
+            in collaboration with Larry Carr, Dave Reitze, and Chris Stanton.&quot;<br>
+            <b>David Tanner</b> - <a href="http://www.phys.ufl.edu/faculty/tanner.shtml">http://www.phys.ufl.edu/faculty/tanner.shtml</a>&nbsp;<br>
+            <br>
+            <img border="0" src="images/r8.jpg" align="right" width="110" height="71"><b>POLYMER 
+            SYNTHESIS</b><br>
+            &quot;Acyclic diene metathesis (ADMET) polymerization, monomer 
+            structure/reactivity relationships, catalyst structure/property 
+            relationships, synthesis of new biopolymers, copolymers, and 
+            elastomeric thermosets, determining structure/behavior relationships 
+            in polyolefins. The common theme that defines our research relates 
+            to synthetic polymer chemistry and how it might be used in creating 
+            well defined polymer structures. A large part of our work is devoted 
+            metathesis reactions, where <br>
+            the research has been mechanistic in nature. We immerse ourselves in 
+            the chemistry associated with creating new polymers, and we also 
+            find ourselves interested in modeling well known materials, like 
+            polyethylene, to better understand their behavior.&quot; <br>
+            <b>Ken Wagener</b> - <a href="http://www.chem.ufl.edu/~wagener/">
+            http://www.chem.ufl.edu/~wagener/</a>&nbsp; <br>
+&nbsp;</td>
+          </tr>
+        </table>
+        </center>
+      </div>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<?php
+include 'includes/footer.php';
+?>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11192326-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+
+</html>

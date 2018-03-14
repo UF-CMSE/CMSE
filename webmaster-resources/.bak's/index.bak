@@ -1,0 +1,272 @@
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Center for Macromolecular Science and Engineering</title>
+<link rel="stylesheet" type="text/css" href="basic.css" />
+
+ <SCRIPT LANGUAGE="JavaScript">
+<!-- Original:  CodeLifter.com (support@codelifter.com) -->
+<!-- Web Site:  http://www.codelifter.com -->
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Begin
+// Set slideShowSpeed (milliseconds)
+var slideShowSpeed = 6050;
+// Duration of crossfade (seconds)
+var crossFadeDuration = 2;
+// Specify the image files
+var Pic = new Array();
+// to add more images, just continue
+// the pattern, adding to the array below
+
+Pic[0] = 'images/0.jpg'
+Pic[1] = 'images/1.jpg'
+Pic[2] = 'images/2.jpg'
+Pic[3] = 'images/3.jpg'
+Pic[4] = 'images/4.jpg'
+Pic[5] = 'images/5.jpg'
+Pic[6] = 'images/6.jpg'
+Pic[7] = 'images/7.jpg'
+
+
+// do not edit anything below this line
+var t;
+var j = 0;
+var p = Pic.length;
+var preLoad = new Array();
+for (i = 0; i < p; i++) {
+preLoad[i] = new Image();
+preLoad[i].src = Pic[i];
+}
+function runSlideShow() {
+if (document.all) {
+document.images.SlideShow.style.filter="blendTrans(duration=2)";
+document.images.SlideShow.style.filter="blendTrans(duration=crossFadeDuration)";
+document.images.SlideShow.filters.blendTrans.Apply();
+}
+document.images.SlideShow.src = preLoad[j].src;
+if (document.all) {
+document.images.SlideShow.filters.blendTrans.Play();
+}
+j = j + 1;
+if (j > (p - 1)) j = 0;
+t = setTimeout('runSlideShow()', slideShowSpeed);
+}
+//  End -->
+</script></head>
+
+<body background="images/back.gif"  onload="runSlideShow()">
+
+<?php
+include 'includes/header.php';
+?><div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="751" id="AutoNumber3" background="images/contentback.gif">
+    <tr>
+      <td width="372" valign="top">
+      <img border="0" src="images/logo2.jpg" width="372" height="18"></td>
+      <td rowspan="2">
+      <img border="0" src="images/0.jpg" width="379" height="155" name='SlideShow'></td>
+    </tr>
+    <tr>
+      <td valign="top">
+      <div align="left">
+        <table border="0" cellpadding="6" cellspacing="6" style="border-collapse: collapse" bordercolor="#111111" width="101%" id="AutoNumber4">
+          <tr>
+            <td width="100%"><b><font size="2px"><font color="#009933">OUR VISION:</font><font color="#008000">
+              </font></font></b>The center promotes interdisciplinary collaboration 
+            among faculty and students in polymer science and engineering on campus and 
+            serves as a conduit between industry, government and UF. 
+            We stress a fundamental approach in our research while seeking 
+            solutions to practical problems. We pursue excellence in all our 
+            endeavors. Our conduct is characterized by ethics, integrity, and 
+            honesty.</td>
+          </tr>
+        </table>
+      </div>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+<?php
+include 'includes/subnav.php';
+?>     
+<div align="center">
+  <center>
+  <table background="images/contentback2.gif" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="751" id="AutoNumber6">
+    <tr>
+      <td width="155" valign="top">
+      <?php
+include 'includes/nav.php';
+?>      </td>
+      <td width="421" valign="top">
+      <div align="center">
+        <center>
+        <table border="0" cellpadding="6" cellspacing="6" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber10">
+          <tr>
+            <td width="100%">
+            <div align="left">
+              <table border="0" cellpadding="2" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber11" align="left">
+                <tr>
+                  <td><img border="0" src="images/turner.jpg" align="left" hspace="0" width="189" height="126"></td>
+                </tr>
+              </table>
+            </div>
+            <h1>Featured Alumni</h1>
+            <h1> Dr. Richard Turner </h1>
+            <p>Can you imagine what a great year 1966 was for me? Fresh with my master&rsquo;s degree from Tennessee Tech in Cookeville, TN, I joined Professor George Butler&rsquo;s group for my Ph.D. studies. It was an exciting year in Gainesville as my fellow Tennessean, Steve Spurrier, quarterbacked the Gators and his game winning field goal against Auburn also brought him the Heisman trophy. <a href="featuredalumni.php">Read More</a>
+            <font face="Comic Sans MS">&gt;&gt;</font></td>
+          </tr>
+          <tr>
+            <td><div align="left">
+              <table border="0" cellpadding="2" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber11" align="left">
+                <tr>
+                  <td><img border="0" src="images/homepic.jpg" align="left" hspace="0" width="141" height="150"></td>
+                </tr>
+              </table>
+            </div>
+              <h1>Castellano Receives NSF CAREER Award</h1>
+              <p>Professor Ronald K. Castellano has received funding from NSF's most prestigious awards program for junior faculty, the Faculty Early Career Development (CAREER) Program. CAREER teacher-scholars are selected on the basis of creative, career-development plans that will effectively integrate research and education within the context of the mission of their institution. <a href="castellanoaward.php">Read More</a> <font face="Comic Sans MS">&gt;&gt;</font></td>
+          </tr>
+        </table>
+        </center>
+      </div>
+      </td>
+      <td width="175" valign="top" align="left"><p>
+      <div align="center">
+        <center>
+        <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="148" id="AutoNumber12" height="174" background="images/newsback.gif">
+          <tr>
+            <td width="100%"><div align="center"><p>&nbsp;<script type="text/javascript">
+
+/***********************************************
+* Fading Scroller- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var delay = 2000; //set delay between message change (in miliseconds)
+var maxsteps=30; // number of steps to take to change from start color to endcolor
+var stepdelay=40; // time in miliseconds of a single step
+//**Note: maxsteps*stepdelay will be total time in miliseconds of fading effect
+var startcolor= new Array(255,255,255); // start color (red, green, blue)
+var endcolor=new Array(0,0,0); // end color (red, green, blue)
+
+var fcontent=new Array();
+begintag='<div style="font: normal 10px verdana; padding: 5,5,5,5;">'; //set opening tag, such as font declarations
+fcontent[0]="<b>Students:</b> Find out more about our program and <a href='program.php'>how to apply</a>.";
+fcontent[1]="Want to partner with us?  See how you can <a href='getinvolved.php'>get involved</a>.";
+fcontent[2]="Dr. Alan E. Tonelli North Carolina <br> State University<br>April 10, 2006<br><a href='calendar.php'>Read more</a>.";
+fcontent[3]="Dr. Karen Wooley Washington University <br>April 20, 2006<br><a href='calendar.php'>Read More</a>.";
+fcontent[4]="Congratulations to Aubrey Dyer on her PMSE Travel Award!</a>";
+closetag='</div>';
+
+var fwidth='140px'; //set scroller width
+var fheight='75px'; //set scroller height
+
+var fadelinks=1;  //should links inside scroller content also fade like text? 0 for no, 1 for yes.
+
+///No need to edit below this line/////////////////
+
+
+var ie4=document.all&&!document.getElementById;
+var DOM2=document.getElementById;
+var faderdelay=0;
+var index=0;
+
+
+/*Rafael Raposo edited function*/
+//function to change content
+function changecontent(){
+  if (index>=fcontent.length)
+    index=0
+  if (DOM2){
+    document.getElementById("fscroller").style.color="rgb("+startcolor[0]+", "+startcolor[1]+", "+startcolor[2]+")"
+    document.getElementById("fscroller").innerHTML=begintag+fcontent[index]+closetag
+    if (fadelinks)
+      linkcolorchange(1);
+    colorfade(1, 15);
+  }
+  else if (ie4)
+    document.all.fscroller.innerHTML=begintag+fcontent[index]+closetag;
+  index++
+}
+
+// colorfade() partially by Marcio Galli for Netscape Communications.  ////////////
+// Modified by Dynamicdrive.com
+
+function linkcolorchange(step){
+  var obj=document.getElementById("fscroller").getElementsByTagName("A");
+  if (obj.length>0){
+    for (i=0;i<obj.length;i++)
+      obj[i].style.color=getstepcolor(step);
+  }
+}
+
+/*Rafael Raposo edited function*/
+var fadecounter;
+function colorfade(step) {
+  if(step<=maxsteps) {	
+    document.getElementById("fscroller").style.color=getstepcolor(step);
+    if (fadelinks)
+      linkcolorchange(step);
+    step++;
+    fadecounter=setTimeout("colorfade("+step+")",stepdelay);
+  }else{
+    clearTimeout(fadecounter);
+    document.getElementById("fscroller").style.color="rgb("+endcolor[0]+", "+endcolor[1]+", "+endcolor[2]+")";
+    setTimeout("changecontent()", delay);
+	
+  }   
+}
+
+/*Rafael Raposo's new function*/
+function getstepcolor(step) {
+  var diff
+  var newcolor=new Array(3);
+  for(var i=0;i<3;i++) {
+    diff = (startcolor[i]-endcolor[i]);
+    if(diff > 0) {
+      newcolor[i] = startcolor[i]-(Math.round((diff/maxsteps))*step);
+    } else {
+      newcolor[i] = startcolor[i]+(Math.round((Math.abs(diff)/maxsteps))*step);
+    }
+  }
+  return ("rgb(" + newcolor[0] + ", " + newcolor[1] + ", " + newcolor[2] + ")");
+}
+
+if (ie4||DOM2)
+  document.write('<div id="fscroller" style="border:0px solid black;width:'+fwidth+';height:'+fheight+'"></div>');
+
+if (window.addEventListener)
+window.addEventListener("load", changecontent, false)
+else if (window.attachEvent)
+window.attachEvent("onload", changecontent)
+else if (document.getElementById)
+window.onload=changecontent
+
+              </script>
+</div>
+</td>
+          </tr>
+        </table>
+        </center>
+      </div>
+      <div align="center"><br>
+          <a href="getinvolved.php"><img border="0" src="images/partnerbutton.gif" width="144" height="27"></a><a href="program.php"><img border="0" src="images/studentbutton.gif" width="144" height="26"></a></div></td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<?php
+include 'includes/footer.php';
+?></body>
+
+</html>

@@ -1,0 +1,153 @@
+body
+{
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000;
+}
+
+
+a:link, a:visited
+{
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover
+{
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+p, ul, li, ol, td
+{
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 16px;
+	padding-left: 0px;
+}
+
+
+.small
+{	font-size: 10px;	
+}
+
+h1 
+{
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 24px;
+	color: #093;
+	margin-bottom: 0px;
+}
+
+h2, h3, h4, h5, h6
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 24px;
+	color: #000;
+	margin-bottom: 0px;
+}
+
+#nav a:link, #nav a:visited
+{
+	color: #fff;
+	text-decoration: none;
+	line-height: 22px;
+	font-weight: normal;
+}
+
+#nav a:hover
+{
+	color: #cf9;
+	text-decoration: underline;
+	line-height: 22px;
+	font-weight: normal;
+}
+
+.navhead
+{
+	color: #cf9;
+}
+
+
+.footer
+{
+	color: #fff;
+	line-height: 10px;
+}
+
+h7 
+{
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 24px;
+	color: #1552AD;
+	margin-bottom: 0px;
+}
+.ourvision {
+	color: #093;
+}
+#underheader {
+	height: 170px;
+	width: 748px;
+	background-color: white;
+	background-image: url(images/home.gif);
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: black;
+	border-left-color: black;
+	height: 170px;
+	background-repeat: no-repeat;
+	width: 748px;
+	background-position: top middle;
+}
+#block-left {
+	float: left;
+	height: 170px;
+	width: 360px;
+	padding: 0px 0px 0px 7px;
+}
+#block-right {
+	float: right;
+	height: 170px;
+	width: 354px;
+}
+.didyouknow {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #36C;
+	text-align: left;
+	width: auto;
+	float: left;
+	padding: 13px 0px 0px 0px;
+	height: 35px;
+}
+.dyk_text {
+	float: left;
+	height: 135px;
+	width: 170px;
+	overflow: hidden;
+	text-align: left;
+}
+.dyk_image {
+	float: right;
+	height: 170px;
+	width: 175px;
+	overflow: visible;
+	display: inline;
+}
+
+#underheader #block-right .dyk_image p {
+	margin: 0px;
+}
+#underheader #block-right .dyk_text p {
+	margin: 0px;
+}
+.pmse {
+	margin-left: 40px;
+}

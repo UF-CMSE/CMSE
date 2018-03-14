@@ -1,0 +1,187 @@
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Center for Macromolecular Science and Engineering</title>
+<link rel="stylesheet" type="text/css" href="basic.css" />
+<link rel="SHORTCUT ICON" href="http://www.cmse.ufl.edu/favicon.ico" />
+<link rel="icon" href="http://www.cmse.ufl.edu/favicon.gif" type="image/gif" />
+</head>
+
+<body background="images/back.gif">
+ 
+<?php
+include 'includes/header.php';
+?>
+<div align="center">
+  <center>
+    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="751" id="AutoNumber3" background="images/contentback.gif">
+      <tr>
+        <td width="372" valign="top"><img border="0" src="images/logo2.jpg" width="405" height="17"></td>
+        <td><img border="0" src="images/searchback2.jpg" width="346" height="17"></td>
+      </tr>
+    </table>
+  </center>
+</div>
+<?php
+include 'includes/subnav.php';
+?>
+<div align="center">
+  <center>
+    <table background="images/contentback2a.gif" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="751" id="AutoNumber6">
+      <tr>
+        <td width="155" valign="top"><?php
+include 'includes/nav.php';
+?></td>
+        <td width="445" valign="top"><div align="right">
+          <center>
+            <table border="0" cellpadding="6" cellspacing="6" style="border-collapse: collapse" bordercolor="#111111" width="86%" id="AutoNumber10">
+              <tr>
+                <td width="100%" colspan="3"><h1>Faculty Directory</h1></td>
+              </tr>
+              <tr>
+                <td width="33%" valign="top"><img border="0" src="images/ron_baney.jpg" width="90" height="120">
+                  <p> <b>Ron Baney </b><br>
+                    (352) 846-3785<br>
+                    <a href="mailto:rbane@mse.ufl.edu"> <span style="font-size: 7pt">rbane@mse.ufl.edu</span></a>&nbsp; <br>
+                    <a href="http://baney.mse.ufl.edu">Visit Website</a> </td>
+                <td width="33%" valign="top"><img border="0" src="images/chris_batich.jpg" width="90" height="120">
+                  <p> <b>Chris Batich </b><br>
+                    (352) 392-6630<br>
+                    <a href="mailto:cbati@mse.ufl.edu"><span style="font-size: 7pt">cbati@mse.ufl.edu</span></a><br>
+                    <a href="http://batich.mse.ufl.edu">Visit Website</a>&nbsp; 
+                  </td>
+                <td width="33%" valign="top"><p><img border="0" src="images/charles_beatty.jpg" width="90" height="120">
+                  <p> <b>Charles Beatty </b><br>
+                    (352) 846-3786<br>
+                    <a href="mailto:cbeat@mse.ufl.edu"> <span style="font-size: 7pt">cbeat@mse.ufl.edu</span></a><br>
+                    <a href="http://beatty.mse.ufl.edu"></a>&nbsp; 
+                  </td>
+              </tr>
+              <tr>
+                <td width="100%" valign="top" colspan="3"><img border="0" src="images/dotted_line.gif" width="553" height="3"></td>
+              </tr>
+              <tr>
+                <td width="33%" valign="top"><img border="0" src="images/anthony_brennan.jpg" width="90" height="120">
+                  <p> <b>Tony Brennan </b><br>
+                    (352) 392-6281 <a href="mailto:abrennan@mse.ufl.edu"> <span style="font-size: 7pt"><br>
+                      abrennan@mse.ufl.edu</span></a> <br>
+                    <a href="http://brennan.mse.ufl.edu">Visit Website</a>&nbsp; 
+                  </td>
+                <td width="33%" valign="top"><p><img border="0" src="images/ronald_castellano.jpg" width="90" height="120">
+                  <p> <b>Ron Castellano </b><br>
+                    (352) 392-2752<br>
+                    <a href="mailto:castellano@chem.ufl.edu"> <span style="font-size: 7pt">castellano@chem.ufl.edu</span></a>&nbsp; <a href="http://www.chem.ufl.edu/~castellano"><br>
+                      Visit Website</a>&nbsp; </td>
+                <td width="33%" valign="top"><p><img border="0" src="images/elliot_douglas.jpg" width="90" height="120">
+                  <p> <b>Elliot Douglas </b><br>
+                    (352) 846-2836<br>
+                    <a href="mailto:edoug@mse.ufl.edu"><span style="font-size: 7pt"> edoug@mse.ufl.edu</span></a>&nbsp; <br>
+                    <a href="http://douglas.mse.ufl.edu/">Visit Website</a>&nbsp; 
+                  </td>
+              </tr>
+              <tr>
+                <td width="100%" valign="top" colspan="3"><img border="0" src="images/dotted_line.gif" width="553" height="3"></td>
+              </tr>
+              <tr>
+                <td width="33%" valign="top"><p> <img border="0" src="images/eugene_goldberg.jpg" width="90" height="120">
+                  <p> <b>Gene Goldberg </b><br>
+                    (352) 392-4907<br>
+                    <a href="mailto:egold@mse.ufl.edu"><span style="font-size: 7pt"> egold@mse.ufl.edu</span></a> <br>
+                    <a href="http://mse.ufl.edu/faculty-and-staff/directory/faculty/Goldberg,Eugene">Visit Website</a>&nbsp; 
+                  </td>
+                <td width="33%" valign="top">&nbsp;<img border="0" src="images/laurie_gower.jpg" width="90" height="120">
+                  <p> <b>Laurie Gower </b><br>
+                    (352) 846-3336<br>
+                    <a href="mailto:lgowe@mse.ufl.edu"><span style="font-size: 7pt"> lgowe@mse.ufl.edu</span></a> <br>
+                    <a href="http://gower.mse.ufl.edu">Visit Website</a>&nbsp; 
+                  </td>
+                <td width="33%" valign="top"><img border="0" src="images/so_hirata.jpg" width="90" height="120">
+                  <p> <b>So Hirata</b><br>
+                    (352) 392-6976<br>
+                    <a href="mailto:hirata@qtp.ufl.edu"><span style="font-size: 7pt"> hirata@qtp.ufl.edu</span></a> <br>
+                    <a href="http://www.qtp.ufl.edu/~hirata">Visit Website</a>&nbsp; 
+                  </td>
+              </tr>
+              <tr>
+                <td width="100%" valign="top" colspan="3"><img border="0" src="images/dotted_line.gif" width="553" height="3"></td>
+              </tr>
+              <tr>
+                <td width="33%" valign="top"><img border="0" src="images/steven_miller.jpg" width="90" height="120">
+                  <p> <b>Stephen Miller</b><br>
+                    (352) 392-7773<br>
+                    <a href="mailto:miller@chem.ufl.edu"><span style="font-size: 7pt"> miller@chem.ufl.edu</span></a> <br>
+                    <a href="http://web.chem.ufl.edu/groups/miller/">Visit Website</a> </td>
+                <td width="33%" height="193" valign="top">&nbsp;<img border="0" src="images/sergei_obukhov.jpg" width="90" height="120">
+                  <p> <b>Sergei Obukhov </b><br>
+                    (352) 392-8752<br>
+                    <a href="mailto:sergei@phys.ufl.edu"><span style="font-size: 7pt"> sergei@phys.ufl.edu</span></a>&nbsp; <br />
+                    <a href="http://www.phys.ufl.edu/~sergei/">Visit Website</a>&nbsp;</td>
+                <td width="33%" valign="top"><img border="0" src="images/chang-won_park.jpg" width="90" height="120">
+                  <p> <b>Chang-Won Park </b> <br>
+                    (352) 392-6205<br>
+                    <a href="mailto:park@che.ufl.edu"><span style="font-size: 7pt"> park@che.ufl.edu</span></a>&nbsp;<br />
+                    <a href="http://www.che.ufl.edu/faculty/park/">Visit Website</a>&nbsp; 
+                  </td>
+              </tr>
+              <tr>
+                <td width="100%" valign="top" colspan="4"><img border="0" src="images/dotted_line.gif" width="553" height="3"></td>
+              </tr>
+              <tr>
+                <td width="33%" valign="top"><img border="0" src="images/john_reynolds.jpg" width="90" height="120">
+                  <p> <b>John Reynolds </b><br>
+                    (352) 392-9151<br>
+                    <a href="mailto:Reynolds@chem.ufl.edu"><span style="font-size: 7pt">Reynolds@chem.ufl.edu</span></a> <br>
+                    <a href="http://www.chem.ufl.edu/~reynolds/">Visit Website</a> </td>
+                <td width="33%" valign="top"><img border="0" src="images/kirk_schanze.jpg" width="90" height="120">
+                  <p> <b>Kirk Schanze </b><br>
+                    (352) 392-9133<br>
+                    <a href="mailto:kschanze@chem.ufl.edu"><span style="font-size: 7pt"> kschanze@chem.ufl.edu</span></a><br>
+                    <a href="http://www.chem.ufl.edu/~kschanze/">Visit Website</a>&nbsp; 
+                  </td>
+                <td width="33%" valign="top"><img border="0" src="images/david_tanner.jpg" width="90" height="120">
+                  <p> <b>David Tanner </b><br>
+                    (352) 392-4718<br>
+                    <a href="mailto:tanner@phys.ufl.edu"><span style="font-size: 7pt"> tanner@phys.ufl.edu</span></a><br />
+                    <a href="http://www.phys.ufl.edu/faculty/tanner.shtml">Visit Website</a>&nbsp;  </td>
+              </tr>
+              <tr>
+                <td width="100%" valign="top" colspan="4"><img border="0" src="images/dotted_line.gif" width="553" height="3"></td>
+              </tr>
+              <tr>
+                <td width="33%" valign="top"><img border="0" src="images/ken_wagener.jpg" width="90" height="120">
+                  <p> <b>Ken Wagener </b><br>
+                    (352) 392-4666 <br>
+                    <a href="mailto:wagener@chem.ufl.edu"><span style="font-size: 7pt"> wagener@chem.ufl.edu</span></a> <br>
+                    <a href="http://www.chem.ufl.edu/~wagener/">Visit Website</a> </td>
+                <td width="33%">&nbsp;</td>
+              </tr>
+            </table>
+          </center>
+        </div></td>
+      </tr>
+    </table>
+  </center>
+</div>
+<?php
+include 'includes/footer.php';
+?>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11192326-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-18786668-1";
+urchinTracker();
+</script>
+</body>
+
+</html>
