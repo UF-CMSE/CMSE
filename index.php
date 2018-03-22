@@ -228,7 +228,7 @@ include 'includes/nav.php';
                         </table>
                       </div>
                       <h2 align="center">Dr. Wagener Recognized for Outstanding Contributions to Polymer Science and Graduate Experience   </h2>
-                      <p align="justify">Congratualtions to Dr. Wagener for winning the 2018 CLAS Faculty Achievement Award for his contributions to the graduate experience here at UF and 2019 Tosoh Lifetime Achievement Award for his contributions to the field of polymer science. </p></td>
+                      <p align="justify">Congratulations to Dr. Wagener for winning the 2018 CLAS Faculty Achievement Award for his contributions to the graduate experience here at UF and 2019 Tosoh Lifetime Achievement Award for his contributions to the field of polymer science. </p></td>
                   </tr>
                   <tr>
                     <td width="100%"><center>
