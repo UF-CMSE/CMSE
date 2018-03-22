@@ -216,12 +216,29 @@ include 'includes/nav.php';
             --> 
                   <!-- wagener -->
                   <tr>
+                    <td width="100%"><!--<center>
+                  <hr noshade color="#000000" size="1" style="border-style: dotted; border-width: 1"><br>
+                  </center>-->
+                      
+                      <div align="left">
+                        <table width="160" border="0" align="left" cellpadding="10" bordercolor="#111111" id="AutoNumber4" style="border-collapse: collapse">
+                          <tr>
+                            <td><a href="http://wagener.chem.ufl.edu/"><img src="images/ken_wagener.jpg" alt="Dr. Brent Sumerlin" width="140" border="1" align="left"></a></td>
+                          </tr>
+                        </table>
+                      </div>
+                      <h2 align="center">Dr. Wagener Recognized for Outstanding Contributions to Polymer Science and Graduate Experience   </h2>
+                      <p align="justify">Congratualtions to Dr. Wagener for winning the 2018 CLAS Faculty Achievement Award for his contributions to the graduate experience here at UF and 2019 Tosoh Lifetime Achievement Award for his contributions to the field of polymer science. </p></td>
+                  </tr>
+                  <tr>
                     <td width="100%"><center>
                         <hr noshade color="#000000" size="1" style="border-style: dotted; border-width: 1">
                         <br>
                       </center>
                       <div align="left">
                         <table width="160" border="0" align="left" cellpadding="10" bordercolor="#111111" id="AutoNumber4" style="border-collapse: collapse">
+                        
+                        
                           <tr>
                             <td><a href="http://www.mse.ufl.edu/professor-brennan-named-national-academy-of-inventors-fellow/"><img src="images/brennan-new.jpg" alt="Dr. Anthony Brennan" width="140" border="1" align="left"></a></td>
                           </tr>
@@ -230,21 +247,7 @@ include 'includes/nav.php';
                       <h2 align="center">Dr. Brennan named National Academy of Inventors Fellow</h2>
                       <p align="justify">The CMSE is pleased to congratulate Dr. Brennan for his nomination for his research that led to the Sharklet microtopography. Learn more about Dr. Brennan and his nomination <a href="http://www.mse.ufl.edu/professor-brennan-named-national-academy-of-inventors-fellow/">here</a>.</p></td>
                   </tr>
-                  <tr>
-                    <td width="100%"><!--<center>
-                  <hr noshade color="#000000" size="1" style="border-style: dotted; border-width: 1"><br>
-                  </center>-->
-                      
-                      <div align="left">
-                        <table width="160" border="0" align="left" cellpadding="10" bordercolor="#111111" id="AutoNumber4" style="border-collapse: collapse">
-                          <tr>
-                            <td><a href="http://sumerlin.chem.ufl.edu/"><img src="images/sumerlin-feature.jpg" alt="Dr. Brent Sumerlin" width="140" border="1" align="left"></a></td>
-                          </tr>
-                        </table>
-                      </div>
-                      <h2 align="center">Professor Brent Sumerlin appointed as Butler Chair of Polymer Chemistry</h2>
-                      <p align="justify">Dean Richardson has announced the appointment of Professor Brent Sumerlin to succeed Professor Ken Wagener as Butler Chair of Polymer Chemistry beginning with the fall semester, 2017.</p></td>
-                  </tr>
+                  
                 </table>
               </center>
               <br>
