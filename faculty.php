@@ -104,7 +104,7 @@ include 'includes/nav.php';
                     <p> <b>Chang-Won Park </b> <br>
                       (352) 392-6205<br>
                       <a href="mailto:park@che.ufl.edu"><span style="font-size: 7pt"> park@che.ufl.edu</span></a>&nbsp;<br />
-                      <a href="http://www.che.ufl.edu/faculty/park/" target=_blank>Visit Website</a>&nbsp; </td>
+                      <a href="http://www.che.ufl.edu/faculty-staff/park-chang-won/" target=_blank>Visit Website</a>&nbsp; </td>
                   <td width="35%" valign="top"><img border="1" src="images/Carlos_Rinaldi_3.jpg" width="90" height="120">
                     <p> <b>Carlos Rinaldi </b> <br>
                       (352) 392-6205<br>

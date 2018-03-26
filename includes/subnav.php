@@ -7,7 +7,6 @@
             <p align="right"><a href="../../about.php">About the Center</a>&nbsp;
             <font face="Verdana" color="#CCFF99">&#9642;</font>&nbsp;
             <a href="../../contact.php">Contact Us</a>&nbsp;
-            <font face="Verdana" color="#CCFF99">&#9642;</font>&nbsp; <a href="http://eepurl.com/bz7Fob" target="_blank">Join our Mailing List</a>&nbsp;
             <font face="Verdana" color="#CCFF99">&#9642;</font>&nbsp; 
             
             

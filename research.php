@@ -178,7 +178,7 @@ include 'includes/nav.php';
                     interplay between process modeling and experiment. Modeling work is 
                     aimed at establishing theoretical bases of various fluid mechanical 
                     behaviors observed experimentally.&quot;</p>
-                      <p><b>Chang-Won Park</b> - <a href="http://www.che.ufl.edu/faculty/Park/index.html" target=_blank>Website</a></p>
+                      <p><b>Chang-Won Park</b> - <a href="http://www.che.ufl.edu/faculty-staff/park-chang-won.html" target=_blank>Website</a></p>
                       
                       <p>&nbsp;</p>
                       </td>

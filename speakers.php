@@ -121,7 +121,7 @@ include 'includes/nav.php';
                       
                       <tr valign="top">
                         <td valign=top style='padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.25pt'>Aug 2015 - Feb 2016</td>
-                        <td valign=top style='padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.25pt'><a href="http://web.stanford.edu/group/waymouth/Waymouth_Research_Group/Home.html" target="_blank">Dr<font size="2">.</font> Robert Waymouth</a><br>
+                        <td valign=top style='padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.25pt'><a href="http://waymouthlab.stanford.edu" target="_blank">Dr<font size="2">.</font> Robert Waymouth</a><br>
                           Stanford University</td>
                         <td valign=top style='padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.25pt'><a href="http://butlerlabs.chem.ufl.edu/resources/Waymouth%20Lecture%20Schedule.pdf"><i>"Catalysis: The Enabling Science for Polymer Chemistry"</i></a></td>
                       </tr>

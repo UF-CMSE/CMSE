@@ -182,7 +182,7 @@ include 'includes/nav.php';
                       <i>The CMSE Welcomes Dr. Frank Bates</i></h2>
                       <p>
                         <center>
-                          <a href="https://www.chem.ufl.edu/about/news/#UF ACS POLY/PMSE Student Chapter Wins Best Student Chapter Award" target="_blank"><img src="images/frank-bates.jpg" alt="UF ACS POLY/PMSE Student Chapter Wins Best Student Chapter Award" width="200" border="1" align="center"></a>
+                          <a href="http://www.cmse.ufl.edu/people/speaker/frank-bates.php" target="_blank"><img src="images/frank-bates.jpg" alt="Dr. Frank Bates" width="200" border="1" align="center"></a>
                         </center>
                       <blockquote>
                         <p align="justify">
@@ -219,11 +219,14 @@ include 'includes/nav.php';
                     <td width="100%"><!--<center>
                   <hr noshade color="#000000" size="1" style="border-style: dotted; border-width: 1"><br>
                   </center>-->
-                      
+                      <center>
+                        <hr noshade color="#000000" size="1" style="border-style: dotted; border-width: 1">
+                        <br>
+                      </center>
                       <div align="left">
                         <table width="160" border="0" align="left" cellpadding="10" bordercolor="#111111" id="AutoNumber4" style="border-collapse: collapse">
                           <tr>
-                            <td><a href="http://wagener.chem.ufl.edu/"><img src="images/ken_wagener.jpg" alt="Dr. Brent Sumerlin" width="140" border="1" align="left"></a></td>
+                            <td><a href="http://wagener.chem.ufl.edu/"><img src="images/ken_wagener.jpg" alt="Dr. Wagener" width="140" border="1" align="left"></a></td>
                           </tr>
                         </table>
                       </div>
@@ -231,10 +234,7 @@ include 'includes/nav.php';
                       <p align="justify">Congratulations to Dr. Wagener for winning the 2018 CLAS Faculty Achievement Award for his contributions to the graduate experience here at UF and 2019 Tosoh Lifetime Achievement Award for his contributions to the field of polymer science. </p></td>
                   </tr>
                   <tr>
-                    <td width="100%"><center>
-                        <hr noshade color="#000000" size="1" style="border-style: dotted; border-width: 1">
-                        <br>
-                      </center>
+                    <td width="100%">
                       <div align="left">
                         <table width="160" border="0" align="left" cellpadding="10" bordercolor="#111111" id="AutoNumber4" style="border-collapse: collapse">
                         

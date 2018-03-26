@@ -63,39 +63,7 @@ include '../../includes/nav.php';
                     Spring 2018 Seminar Schedule
                   </center>
                 </h1>
-                <p> <b>Seminar 1 - Monday, 2/5/18 11:30am, LEI 309</b><br>
-                  <i>Multiblock Polymers: Panacea or Pandora’s Box?</i><br>
-                  Advances in synthetic chemistry present scientists and engineers with an
-                  inexhaustible palette of macromolecular design possibilities. This lecture reviews
-                  opportunities and challenges associated with block polymers </p>
-                <p> <b>Seminar 2 - Tuesday, 2/6/18 4:00pm, JHH 221</b><br>
-                  <i>Polymer Chain Configuration</i><br>
-                  Stringing together numerous repeat units leads to a seemingly daunting array of
-                  polymeric configurational states. This lecture outlines the statistical concepts that
-                  lead to a simple Gaussian coil description that underpins polymer melt and solution
-                  structure and physical properties. </p>
-                <p> <b>Seminar 3 - Friday, 2/9/18 12:00pm, LEI 309</b><br>
-                  <i>Polyolefins: Big, Bad and Beautiful</i><br>
-                  Saturated hydrocarbon polymers dominate the landscape of commercial plastics.
-                  Yet there is no conclusive explanation of why polyethylene and polypropylene
-                  phase separate in the melt state. This lecture will review the classic theory of
-                  polymer-polymer thermodynamics and describe recent advances in polyolefin
-                  blends. </p>
-                <p> <b>Seminar 4 - Monday, 2/12/18 4:00pm, LEI 309</b><br>
-                  <i>Block Copolymer Thermodynamics: A Toy Model</i><br>
-                  Although the detailed theory of block copolymer phase behavior is mathematically
-                  complex, the basic ingredients are easy to comprehend. This lecture will provide a
-                  surprisingly simple approach to predicting order and disorder in diblock
-                  copolymers based on concepts developed in lectures 1-3. </p>
-                <p> <b>Seminar 5 - Monday, 3/26/18 12:00pm, LEI 309</b><br>
-                  <i>Fluctuation Effects in Block Copolymers-Homopolymer Blends </i><br>
-                  Block copolymers can function as macromolecular amphiphiles resulting in phase
-                  behavior analogous to that associated with mixtures of low molecular weight
-                  surfactants when mixed with oil and water. This lecture will describe recent
-                  advances in understanding ternary mixtures of A-B diblock copolymers with the
-                  corresponding A and B homopolymers. </p>
-                <br>
-                <br>
+                <p> 
                 <p> <b>Seminar 6 - Wednesday, 3/28/18 4:00pm, LEI 309</b><br>
                   <i>Scattering of Light, X-rays and Neutrons</i><br>
                   This lecture will develop the fundamental principles behind the scattering of
