@@ -84,63 +84,6 @@ include 'includes/nav.php';
               <center>
                 <table border="0" cellpadding="6" cellspacing="6" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber10">
                   
-                  <!--
-                
-                
-                  <tr>
-                    <td width="100%"><center>
-                        <h1>Center of Macromolecular Science and Engineering 
-                          Welcomes its New Faculty!<br>
-                        </h1>
-                        <br>
-                      </center>
-                      
-                      <!-- Header 
-                      
-                      <div align="left">
-                        <table width="160" border="0" align="left" cellpadding="10" bordercolor="#111111" id="AutoNumber4" style="border-collapse: collapse">
-                          <tr>
-                            <td><a href="people/professor/coray-colina.php"><img src="images/coray-colina.jpg" alt="Dr. Coray Colina" width="140" height="200" border="1" align="left"></a></td>
-                          </tr>
-                        </table>
-                      </div>
-                      
-                      <!-- Dr. Colina
-                      
-                      <h2 align="center">Dr. Coray Colina</h2>
-                      <center>
-                        <a href="mailto:colina@chem.ufl.edu"><i>colina@chem.ufl.edu</i></a>
-                      </center>
-                      <p align="justify">The CMSE is proud to welcome its newest faculty member, <strong>Dr. Coray Colina</strong>, to the Department of Chemistry in August 2015. Dr. Colina comes to the department with a range of expertise in the areas of biomaterials, computational materials and polymers... <a href="people/professor/coray-colina.php">Read More</a> <font face="Comic Sans MS">&gt; &gt;</font></p></td>
-                  </tr>
-                  
-                  <!-- Divider
-                  <tr>
-                    <td width="100%"><div align="left">
-                      
-                      <!-- Dr. Savin--> 
-                  <!--
-                    <table width="160" border="0" align="left" cellpadding="10" bordercolor="#111111" id="AutoNumber4" style="border-collapse: collapse">
-                      <tr>
-                      <td><a href="people/professor/daniel-savin.php"><img src="images/savin.jpg" alt="Daniel Savin" width="140" height="200" border="1" align="left"></a></td>
-                    </tr>
-                    
-                    
-                  </table>
-              </div>
-              
-           
-                <h2 align="center">Dr. Daniel Savin</h2>
-                <center><a href="mailto:savin@chem.ufl.edu"><i>savin@chem.ufl.edu</i></a></center>
-                <p align="justify"><strong>Dr. Daniel Savin</strong> joined the Department of Chemistry in January 2015 and comes to the department with a range of expertise in the areas of materials chemistry and polymer characterization... <a href="people/professor/daniel-savin.php">Read More</a> <font face="Comic Sans MS">&gt; &gt;</font></p></td>
-                </tr>    
-                      
-                      <tr>
-                          <td width="100%"><center>
-                              <hr noshade color="#000000" size="1" style="border-style: dotted; border-width: 1">
-                              <br>
-                            </center> -->
-                  
                   <div align="left">
                   
                   <tr>
@@ -160,11 +103,6 @@ include 'includes/nav.php';
                         </table>
                       </div>
                       
-                      <!-- Dr. Savin 
-                <h2 align="center">The CMSE Welcomes New Faculty: Dr. Daniel Savin</h2>
-                <p align="justify">The CMSE is proud to welcome its newest faculty member, <strong>Dr. Daniel Savin</strong>, to the Department of Chemistry in January 2015... <a href="people/professor/daniel-savin.php">Read More</a> <font face="Comic Sans MS">&gt; &gt;</font></p></td>
-                </tr>
-                -->
                       
                   <tr>
                     <td width="100%"><!--<center>
@@ -194,26 +132,6 @@ include 'includes/nav.php';
                       </td>
                   </tr>
                   
-                  <!-- normal format for news entry
-            <tr><td width="100%">
-                  
-                  
-                  
-                  
-                  
-                <div align="left"></div>
-                <div align="left">
-                  <table width="160" border="0" align="left" cellpadding="10" bordercolor="#111111" id="AutoNumber4" style="border-collapse: collapse">
-                    <tr>
-                      <td><a href="people/grad-students/megan-hill.php"><img src="images/megan_hill_1.jpg" alt="Megan Hill awarded 2015 Butler Polymer Research Award" width="140" height="200" border="1" align="left"></a></td>
-                    </tr>
-                  </table>
-              </div>
-                <h2 align="center">Megan Hill receives 2015 Butler Polymer Research Award</h2>
-                <p align="justify">The CMSE would like to congratulate graduate student Megan R. Hill for recently winning the 2015 Butler Polymer Research Award. Hill has been an involved member of the UF Polymer Program and continues to make her mark with research publications in the Sumerlin Research Group. <a href="people/grad-students/megan-hill.php" target="_blank">Read More</a> <font face="Comic Sans MS">&gt; &gt;</font></p></td>
-            </tr> 
-            
-            --> 
                   <!-- wagener -->
                   <tr>
                     <td width="100%"><!--<center>
@@ -226,7 +144,7 @@ include 'includes/nav.php';
                       <div align="left">
                         <table width="160" border="0" align="left" cellpadding="10" bordercolor="#111111" id="AutoNumber4" style="border-collapse: collapse">
                           <tr>
-                            <td><a href="http://wagener.chem.ufl.edu/"><img src="images/ken_wagener.jpg" alt="Dr. Wagener" width="140" border="1" align="left"></a></td>
+                            <td><a href="http://wagener.chem.ufl.edu/"><img src="images/ken_wagener.jpg" alt="Dr. Wagener" width="157" height="219" border="1" align="left"></a></td>
                           </tr>
                         </table>
                       </div>
@@ -240,12 +158,12 @@ include 'includes/nav.php';
                         
                         
                           <tr>
-                            <td><a href="http://www.mse.ufl.edu/professor-brennan-named-national-academy-of-inventors-fellow/"><img src="images/brennan-new.jpg" alt="Dr. Anthony Brennan" width="140" border="1" align="left"></a></td>
+                            <td><a href="http://www.mse.ufl.edu/professor-brennan-named-national-academy-of-inventors-fellow/"><img src="images/adam_veige.jpg" alt="Dr. Adam Viege" width="155" border="1" align="left"></a></td>
                           </tr>
                         </table>
                       </div>
-                      <h2 align="center">Dr. Brennan named National Academy of Inventors Fellow</h2>
-                      <p align="justify">The CMSE is pleased to congratulate Dr. Brennan for his nomination for his research that led to the Sharklet microtopography. Learn more about Dr. Brennan and his nomination <a href="http://www.mse.ufl.edu/professor-brennan-named-national-academy-of-inventors-fellow/">here</a>.</p></td>
+                      <h2 align="center">Dr. Viege to speak at 2018 Florida Annual Meeting and Exposition</h2>
+                      <p align="justify">Dr. Viege was announced to present a keynote at the <b>2018 Florida Annual Meeting and Exposition</b>. The event takes place May 3-5, 2018 at the Innisbrook Resort in Palm Harbor, Florida.</p></td>
                   </tr>
                   
                 </table>
