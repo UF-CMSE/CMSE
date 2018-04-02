@@ -52,6 +52,13 @@ POLY/PMSE is a place to network, help with career development and provide opport
 <hr>                   
                   <h1>News &amp; Information:</h1><br>
                   <table width="100%" border="0" align="center">
+                    
+                    
+                    <tr>
+                      <td width="21%" valign="top"><center>Spring 2018</center></td>
+                      <td width="79%"><ul><li>Dr. Adam Viege will present a keynote lecture at the Florida Annual Meeting and Exposition May 3-5 2018 at the Innisbrook Resort in Palm Harbor, FL. Presenters will be discussing research in polymers and macromolecules from around the state. </li></ul><br></td>
+                    </tr>
+                    
                     <tr>
                       <td width="21%" valign="top"><center>Spring 2016</center></td>
                       <td width="79%"><ul><li>Congratulations to the UF ACS POLY/PMSE Student Chapter for Winning Best Student Chapter Award!</li></ul><br></td>
