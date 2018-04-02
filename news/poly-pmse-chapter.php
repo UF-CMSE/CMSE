@@ -89,7 +89,7 @@ Adrian Figg
                     </ul>
                   </div>
                   <p> <b> Vice President:
-                    Kyle Bentz
+                    Kyle Bentz</b>
                     
                     <img border="1" src="../images/kyle_bentz.jpg" align="right" width="112" height="119"></b>
                   <div class="pmse"><ul>
@@ -99,7 +99,7 @@ Adrian Figg
                     <li>Assist and share responsibilities as necessary  with the president </li>
                   </ul></div>
                   <br>
-                  <p> <b> Secretary: Brooke Barnes
+                  <p> <b> Secretary: Brooke Barnes </b>
                       <img border="1" src="../images/brooke_barnes.png" align="right" width="112"></b>
                   <div class="pmse"><ul>
                     <li>Record minutes for all meetings </li>
@@ -108,7 +108,7 @@ Adrian Figg
                     <li>Handle chapter correspondence </li>
                   </ul></div><br><br>
                   
-                  <p> <b> Treasurer: Charles Easterling
+                  <p> <b> Treasurer: Charles Easterling </b>
                       <img border="1" src="../images/charles_easterling.jpg" align="right" width="112"></b>
                   <div class="pmse"><ul>
                     <li>Basic financial management </li>
@@ -118,7 +118,7 @@ Adrian Figg
                     <li>Record all cash advanced and handle  reimbursements</li>
                   </ul></div><br>
                   
-                  <p> <b> Public Relations: Steven Shen
+                  <p> <b> Public Relations: Steven Shen </b>
                       <img border="1" src="../images/steven_shen.jpg" align="right" width="112" height="112"></b>
                  <div class="pmse"> <ul>
                     <li>Communicate news and events to chapter members </li>
@@ -127,7 +127,7 @@ Adrian Figg
                   </ul></div>
                   <br><br>
                   
-                  <p><b> Event Coordinator: Jacob Lessard
+                  <p><b> Event Coordinator: Jacob Lessard </b>
                     <img border="1" src="../images/jacob_lessard.png" align="right" width="112"><br>
                   <div class="pmse"><ul>
                     <li>General coordinator of events performed by the  chapter </li>
