@@ -74,10 +74,10 @@ POLY/PMSE is a place to network, help with career development and provide opport
                   </table>
                   <p>
                   <hr>
-                    Our current officers (2016 - 2017) are:
+                    Our current officers (2017 - 2018) are:
                   <p> <b> President:
-Adrian Figg
-                      <img border="1" src="../images/adrian_figg.png" align="right" width="112" height="119"><br>
+Rebecca Olson
+                      <img border="1" src="../images/rebecca_olson.png" align="right" width="112" height="119"><br>
                     </b><em>Primary coordination of all chapter activities 
                     </em>
                   <div class="pmse"><ul>
@@ -89,9 +89,9 @@ Adrian Figg
                     </ul>
                   </div>
                   <p> <b> Vice President:
-                    Kyle Bentz
+                    Georg Scheutz
                     
-                    <img border="1" src="../images/kyle_bentz.jpg" align="right" width="112" height="119"></b>
+                    <img border="1" src="../images/georg_scheutz.png" align="right" width="112" height="119"></b>
                   <div class="pmse"><ul>
                     <li>Plan calendar for the year </li>
                     <li>Act on behalf of the president </li>
@@ -99,8 +99,8 @@ Adrian Figg
                     <li>Assist and share responsibilities as necessary  with the president </li>
                   </ul></div>
                   <br>
-                  <p> <b> Secretary: Brooke Barnes
-                      <img border="1" src="../images/brooke_barnes.png" align="right" width="112"></b>
+                  <p> <b> Secretary: Jacob Lessard
+                      <img border="1" src="../images/jacob_lessard.png" align="right" width="112"></b>
                   <div class="pmse"><ul>
                     <li>Record minutes for all meetings </li>
                     <li>Compile membership roster </li>
@@ -108,8 +108,8 @@ Adrian Figg
                     <li>Handle chapter correspondence </li>
                   </ul></div><br><br>
                   
-                  <p> <b> Treasurer: Charles Easterling
-                      <img border="1" src="../images/charles_easterling.jpg" align="right" width="112"></b>
+                  <p> <b> Treasurer: Grit Kupgan
+                      <img border="1" src="../images/grit_kupgan.png" align="right" width="112"></b>
                   <div class="pmse"><ul>
                     <li>Basic financial management </li>
                     <li>Prepare tentative budget at the beginning of  year </li>
@@ -118,8 +118,8 @@ Adrian Figg
                     <li>Record all cash advanced and handle  reimbursements</li>
                   </ul></div><br>
                   
-                  <p> <b> Public Relations: Steven Shen
-                      <img border="1" src="../images/steven_shen.jpg" align="right" width="112" height="112"></b>
+                  <p> <b> Public Relations: Amanda Pritzlaff
+                      <img border="1" src="../images/amanda_pritzlaff.jpg" align="right" width="112" height="112"></b>
                  <div class="pmse"> <ul>
                     <li>Communicate news and events to chapter members </li>
                     <li>Publicize chapter activities via email, flyers,  etc </li>
@@ -127,8 +127,8 @@ Adrian Figg
                   </ul></div>
                   <br><br>
                   
-                  <p><b> Event Coordinator: Jacob Lessard
-                    <img border="1" src="../images/jacob_lessard.png" align="right" width="112"><br>
+                  <p><b> Event Coordinator: Shalini Jayaraman Rukmani </b>
+                    <img border="1" src="../images/shalini_rukmani.jpg" align="right" width="112"><br>
                   <div class="pmse"><ul>
                     <li>General coordinator of events performed by the  chapter </li>
                     <li>Location, technology and refreshment management </li>
@@ -148,6 +148,37 @@ Adrian Figg
 
 <p><center><strong>Past Officers</strong></center></p>
 <center>
+
+
+<table width="100%">
+  <tr>
+    <td width="9%" height="49" align="center" valign="top">&nbsp;</td>
+    <td width="19%" align="center" valign="middle"><strong>&nbsp; President</strong></td>
+    <td width="14%" align="center" valign="middle"><strong>&nbsp; Vice-President</strong></td>
+    <td width="13%" align="center" valign="middle"><strong>&nbsp; Secretary</strong></td>
+    <td width="12%" align="center" valign="middle"><strong>&nbsp; Treasurer</strong></td>
+    <td width="17%" align="center" valign="middle"><strong>&nbsp; Event Coordinator</strong></td>
+    <td width="16%" align="center" valign="middle"><strong>&nbsp; Public Relations</strong></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" nowrap="nowrap"><strong> (2016 - 2017)</strong></td>
+    <td align="center" valign="top">&nbsp; <img border="0" src="../images/adrian_figg.png" align="center" width="60"><br> 
+      Adrian Figg</td>
+    <td align="center" valign="top">&nbsp; <img border="0" src="../images/kyle_bentz.jpg" align="center" width="60" height="57"><br> 
+      Kyle Bentz</td>
+    <td align="center" valign="top">&nbsp; <img border="0" src="../images/brooke_barnes.png" align="center" width="60"><br> 
+      Brooke Barnes</td>
+    <td align="center" valign="top"><img border="0" src="../images/charles_easterling.jpg" align="center" width="60"><br> 
+      Charles Easterling</td>
+    <td align="center" valign="top">&nbsp; <img border="0" src="../images/jacob_lessard.png" align="center" width="60"><br> 
+      Jacob Lessard</td>
+    <td align="center" valign="top">&nbsp; <img border="0" src="../images/steven_shen.jpg" align="center" width="60"><br> 
+      Steven Shen</td>
+  </tr>
+</table>
+
+
+
 <table width="100%">
   <tr>
     <td width="9%" height="49" align="center" valign="top">&nbsp;</td>
