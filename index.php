@@ -92,31 +92,31 @@ include 'includes/nav.php';
                           News &amp; Highlights<br>
                         </h1>
                         <br>
-                        <hr noshade color="#000000" size="1" style="border-style: dotted; border-width: 1">
+                        <!--<hr noshade color="#000000" size="1" style="border-style: dotted; border-width: 1">-->
                       </center>
                       <div align="left">
-                        <table width="120" border="0" align="left" cellpadding="10" bordercolor="#111111" id="AutoNumber4" style="border-collapse: collapse">
-                          <tr> <!-- Dr. Savin
+                       <!-- <table width="120" border="0" align="left" cellpadding="10" bordercolor="#111111" id="AutoNumber4" style="border-collapse: collapse"> 
+                          <tr> 
+                          --><!-- Dr. Savin
                       <td><a href="people/professor/daniel-savin.php"><img src="images/savin.jpg" alt="Daniel Savin" width="140" height="200" border="1" align="left"></a></td>
                     </tr> -->
                             
-                        </table>
-                      </div>
+                     <!--   </table>
+                      </div>-->
                       
                       
-                  <tr>
-                    <td width="100%"><!--<center>
+                  <!--<center>
                   <hr noshade color="#000000" size="1" style="border-style: dotted; border-width: 1"><br>
                   </center>-->
                       
-                      <div align="left">
+                     <!-- <div align="left">
                         <table width="160" border="0" align="left" cellpadding="10" bordercolor="#111111" id="AutoNumber4" style="border-collapse: collapse">
                           <!--<tr>
                       <td><a href="people/grad-students/megan-hill.php"><img src="images/megan_hill_1.jpg" alt="Megan Hill awarded 2015 Butler Polymer Research Award" width="140" height="200" border="1" align="left"></a></td>
                     </tr> -->
-                        </table>
-                      </div>
-                      <h2 align="center">2018 Butler Lectureship Series<br>
+                      <!--  </table>
+                      </div> -->
+                     <!-- <h2 align="center">2018 Butler Lectureship Series<br>
                       <i>The CMSE Welcomes Dr. Frank Bates</i></h2>
                       <p>
                         <center>
@@ -130,7 +130,7 @@ include 'includes/nav.php';
                         </p>
                       </blockquote>
                       </td>
-                  </tr>
+                  </tr>-->
                   
                   <!-- wagener -->
                   <tr>
