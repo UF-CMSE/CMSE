@@ -166,6 +166,21 @@ include 'includes/nav.php';
                       <p align="justify">Dr. Viege was announced to present a keynote at the <b>2018 Florida Annual Meeting and Exposition</b>. The event takes place May 3-5, 2018 at the Innisbrook Resort in Palm Harbor, Florida.</p></td>
                   </tr>
                   
+                  <tr>
+                    <td width="100%">
+                      <div align="left">
+                        <table width="160" border="0" align="left" cellpadding="10" bordercolor="#111111" id="AutoNumber4" style="border-collapse: collapse">
+                        
+                        
+                          <tr>
+                            <td><a href="http://www.mse.ufl.edu/professor-brennan-named-national-academy-of-inventors-fellow/"><img src="images/brennan-new.jpg" alt="Dr. Anthony Brennan" width="155" border="1" align="left"></a></td>
+                          </tr>
+                        </table>
+                      </div>
+                      <h2 align="center">Dr. Brennan named National Academy of Inventors Fellow</h2>
+                      <p align="justify">The CMSE is pleased to congratulate Dr. Brennan for his nomination for his research that led to the Sharklet microtopography. Learn more about Dr. Brennan and his nomination <a href="http://www.mse.ufl.edu/professor-brennan-named-national-academy-of-inventors-fellow/">here</a>.</p></td>
+                  </tr>
+                  
                 </table>
               </center>
               <br>
