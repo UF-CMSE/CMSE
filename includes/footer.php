@@ -16,8 +16,8 @@
       <font color="#FFFFFF">Center for Macromolecular Science and 
       Engineering</font></a>.</td>
       <td class="footer">
-      <p align="right">Maintained by <a href="mailto:brandon@chem.ufl.edu"><font color="#99ccff">
-      Brandon Goldman</font></a>.&nbsp;&nbsp;&nbsp; </p></td>
+      <p align="right">Maintained by <a href="mailto:syronk@ufl.edu"><font color="#99ccff">
+      Kathleen Syron</font></a>.&nbsp;&nbsp;&nbsp; </p></td>
     </tr>
   </table>
   </center>
